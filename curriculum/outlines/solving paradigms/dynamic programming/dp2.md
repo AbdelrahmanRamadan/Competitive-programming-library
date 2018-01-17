@@ -15,9 +15,8 @@
 ## Material Resources
 | Resource                  | Points Covered                  |
 |-------------------------- |---------------------------------|
-|CP section: 3.5.1          | Most of the outline points      |
-|CP section: 3.5.2          | Most of session examples        |
-|CLRS section: 15.1         | Rod cutting problem             |
+|CP section: 3.5.2          | Classical DP Problems           |
+|CP sections: 9.3, 9.20     | Rare DP Problems                |
 ---
 ## Problem Set
 | Problem       | Tags         | Notes  | Solution |
